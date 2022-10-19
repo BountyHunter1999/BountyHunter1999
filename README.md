@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 </div>
 <div id="badges" align="center>
   <a href="https://www.linkedin.com/in/shrish-adhikari-364001159/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  <a href="https://discord.gg/umh7J4VBKY">
+  <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
 </div>
 
  ### Hi there 👋 
