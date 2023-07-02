@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/{BountyHunter1999}/count.svg)
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=BountyHunter1999&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
  <hr>                                                                                                                        
 
