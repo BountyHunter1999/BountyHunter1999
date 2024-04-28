@@ -18,13 +18,16 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center>
-
-  <a href="https://www.linkedin.com/in/shrish-adhikari/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://github.com/BountyHunter1999">
+    
   </a>
   <a href="https://discord.gg/umh7J4VBKY">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/shrish-adhikari/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
 </div>
 
  ### Hi there 👋 
